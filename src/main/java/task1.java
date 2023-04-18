@@ -46,5 +46,6 @@ public class task1 {
         }
         System.out.println(Arrays.toString(m2) + "   4. Найти все некратные n числа");
 
+
     }
 }
